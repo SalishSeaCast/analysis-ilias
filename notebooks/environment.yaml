@@ -15,7 +15,7 @@ name: analysis-ilias
 
 channels:
   - conda-forge
-  - defaults
+  - nodefaults
 
 dependencies:
   - arrow
