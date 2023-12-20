@@ -1,0 +1,66 @@
+The amount of grid boxes for cluster 0 is 26136
+
+The minimum temperature for cluster 0 is 5.8 degrees Celsius
+The maximum temperature for cluster 0 is 8.04 degrees Celsius
+The mean temperature for cluster 0 is 7.7 degrees Celsius
+
+The minimum salinity for cluster 0 is 28.94 g/kg
+The maximum salinity for cluster 0 is 31.15 g/kg
+The mean salinity for cluster 0 is 30.16 g/kg
+
+
+The amount of grid boxes for cluster 1 is 14326
+
+The minimum temperature for cluster 1 is 7.81 degrees Celsius
+The maximum temperature for cluster 1 is 8.6 degrees Celsius
+The mean temperature for cluster 1 is 8.08 degrees Celsius
+
+The minimum salinity for cluster 1 is 28.47 g/kg
+The maximum salinity for cluster 1 is 30.18 g/kg
+The mean salinity for cluster 1 is 29.21 g/kg
+
+
+The amount of grid boxes for cluster 2 is 15543
+
+The minimum temperature for cluster 2 is 7.23 degrees Celsius
+The maximum temperature for cluster 2 is 8.03 degrees Celsius
+The mean temperature for cluster 2 is 7.71 degrees Celsius
+
+The minimum salinity for cluster 2 is 27.46 g/kg
+The maximum salinity for cluster 2 is 29.02 g/kg
+The mean salinity for cluster 2 is 28.31 g/kg
+
+
+The amount of grid boxes for cluster 3 is 7681
+
+The minimum temperature for cluster 3 is 7.76 degrees Celsius
+The maximum temperature for cluster 3 is 10.2 degrees Celsius
+The mean temperature for cluster 3 is 8.57 degrees Celsius
+
+The minimum salinity for cluster 3 is 25.12 g/kg
+The maximum salinity for cluster 3 is 28.72 g/kg
+The mean salinity for cluster 3 is 27.37 g/kg
+
+
+The amount of grid boxes for cluster 4 is 7279
+
+The minimum temperature for cluster 4 is 6.7 degrees Celsius
+The maximum temperature for cluster 4 is 8.01 degrees Celsius
+The mean temperature for cluster 4 is 7.5 degrees Celsius
+
+The minimum salinity for cluster 4 is 25.08 g/kg
+The maximum salinity for cluster 4 is 27.76 g/kg
+The mean salinity for cluster 4 is 26.83 g/kg
+
+
+The amount of grid boxes for cluster 5 is 9393
+
+The minimum temperature for cluster 5 is 5.25 degrees Celsius
+The maximum temperature for cluster 5 is 9.46 degrees Celsius
+The mean temperature for cluster 5 is 7.56 degrees Celsius
+
+The minimum salinity for cluster 5 is 0.0 g/kg
+The maximum salinity for cluster 5 is 25.66 g/kg
+The mean salinity for cluster 5 is 22.16 g/kg
+
+
