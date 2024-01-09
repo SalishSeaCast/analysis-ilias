@@ -1,0 +1,255 @@
+Date: 2016-04-01
+
+
+The amount of grid boxes for cluster 0 is 14091
+
+The minimum temperature for cluster 0 is 8.41 degrees_C m
+The maximum temperature for cluster 0 is 9.82 degrees_C m
+The mean temperature for cluster 0 is 8.94 degrees_C m
+
+The minimum salinity for cluster 0 is 21.59 g m kg-1
+The maximum salinity for cluster 0 is 29.62 g m kg-1
+The mean salinity for cluster 0 is 26.1 g m kg-1
+
+
+The minimum silicon concentration for cluster 0 is 33.7 mmol m-2
+The maximum silicon concentration for cluster 0 is 58.32 mmol m-2
+The mean silicon concentration for cluster 0 is 43.26 mmol m-2
+
+The minimum nitrate concentration for cluster 0 is 17.28 mmol m-2
+The maximum nitrate concentration for cluster 0 is 29.64 mmol m-2
+The mean nitrate concentration for cluster 0 is 22.42 mmol m-2
+
+The minimum ammonium concentration for cluster 0 is 0.79 mmol m-2
+The maximum ammonium concentration for cluster 0 is 1.52 mmol m-2
+The mean ammonium concentration for cluster 0 is 1.19 mmol m-2
+
+
+The minimum diatom concentration for cluster 0 is 0.33 mmol m-2
+The maximum diatom concentration for cluster 0 is 1.54 mmol m-2
+The mean diatom concentration for cluster 0 is 0.71 mmol m-2
+
+The minimum flagellate concentration for cluster 0 is 0.06 mmol m-2
+The maximum flagellate concentration for cluster 0 is 0.13 mmol m-2
+The mean flagellate concentration for cluster 0 is 0.09 mmol m-2
+
+
+The minimum microzooplankton concentration for cluster 0 is 0.16 mmol m-2
+The maximum microzooplankton concentration for cluster 0 is 0.69 mmol m-2
+The mean microzooplankton concentration for cluster 0 is 0.33 mmol m-2
+
+The minimum mesozooplankton concentration for cluster 0 is 0.14 mmol m-2
+The maximum mesozooplankton concentration for cluster 0 is 0.48 mmol m-2
+The mean mesozooplankton concentration for cluster 0 is 0.25 mmol m-2
+
+
+The amount of grid boxes for cluster 1 is 7755
+
+The minimum temperature for cluster 1 is 6.72 degrees_C m
+The maximum temperature for cluster 1 is 9.82 degrees_C m
+The mean temperature for cluster 1 is 8.58 degrees_C m
+
+The minimum salinity for cluster 1 is 22.16 g m kg-1
+The maximum salinity for cluster 1 is 30.57 g m kg-1
+The mean salinity for cluster 1 is 26.61 g m kg-1
+
+
+The minimum silicon concentration for cluster 1 is 35.24 mmol m-2
+The maximum silicon concentration for cluster 1 is 63.25 mmol m-2
+The mean silicon concentration for cluster 1 is 47.95 mmol m-2
+
+The minimum nitrate concentration for cluster 1 is 18.36 mmol m-2
+The maximum nitrate concentration for cluster 1 is 30.46 mmol m-2
+The mean nitrate concentration for cluster 1 is 23.94 mmol m-2
+
+The minimum ammonium concentration for cluster 1 is 0.31 mmol m-2
+The maximum ammonium concentration for cluster 1 is 1.57 mmol m-2
+The mean ammonium concentration for cluster 1 is 1.03 mmol m-2
+
+
+The minimum diatom concentration for cluster 1 is 0.13 mmol m-2
+The maximum diatom concentration for cluster 1 is 1.55 mmol m-2
+The mean diatom concentration for cluster 1 is 0.59 mmol m-2
+
+The minimum flagellate concentration for cluster 1 is 0.06 mmol m-2
+The maximum flagellate concentration for cluster 1 is 0.27 mmol m-2
+The mean flagellate concentration for cluster 1 is 0.09 mmol m-2
+
+
+The minimum microzooplankton concentration for cluster 1 is 0.05 mmol m-2
+The maximum microzooplankton concentration for cluster 1 is 0.71 mmol m-2
+The mean microzooplankton concentration for cluster 1 is 0.22 mmol m-2
+
+The minimum mesozooplankton concentration for cluster 1 is 0.06 mmol m-2
+The maximum mesozooplankton concentration for cluster 1 is 0.47 mmol m-2
+The mean mesozooplankton concentration for cluster 1 is 0.2 mmol m-2
+
+
+The amount of grid boxes for cluster 2 is 8181
+
+The minimum temperature for cluster 2 is 8.51 degrees_C m
+The maximum temperature for cluster 2 is 9.97 degrees_C m
+The mean temperature for cluster 2 is 9.07 degrees_C m
+
+The minimum salinity for cluster 2 is 22.13 g m kg-1
+The maximum salinity for cluster 2 is 29.69 g m kg-1
+The mean salinity for cluster 2 is 26.63 g m kg-1
+
+
+The minimum silicon concentration for cluster 2 is 32.41 mmol m-2
+The maximum silicon concentration for cluster 2 is 50.23 mmol m-2
+The mean silicon concentration for cluster 2 is 43.65 mmol m-2
+
+The minimum nitrate concentration for cluster 2 is 16.38 mmol m-2
+The maximum nitrate concentration for cluster 2 is 24.42 mmol m-2
+The mean nitrate concentration for cluster 2 is 22.2 mmol m-2
+
+The minimum ammonium concentration for cluster 2 is 0.78 mmol m-2
+The maximum ammonium concentration for cluster 2 is 1.6 mmol m-2
+The mean ammonium concentration for cluster 2 is 1.08 mmol m-2
+
+
+The minimum diatom concentration for cluster 2 is 0.56 mmol m-2
+The maximum diatom concentration for cluster 2 is 1.68 mmol m-2
+The mean diatom concentration for cluster 2 is 0.94 mmol m-2
+
+The minimum flagellate concentration for cluster 2 is 0.07 mmol m-2
+The maximum flagellate concentration for cluster 2 is 0.13 mmol m-2
+The mean flagellate concentration for cluster 2 is 0.09 mmol m-2
+
+
+The minimum microzooplankton concentration for cluster 2 is 0.2 mmol m-2
+The maximum microzooplankton concentration for cluster 2 is 0.69 mmol m-2
+The mean microzooplankton concentration for cluster 2 is 0.36 mmol m-2
+
+The minimum mesozooplankton concentration for cluster 2 is 0.21 mmol m-2
+The maximum mesozooplankton concentration for cluster 2 is 0.5 mmol m-2
+The mean mesozooplankton concentration for cluster 2 is 0.29 mmol m-2
+
+
+The amount of grid boxes for cluster 3 is 2008
+
+The minimum temperature for cluster 3 is 8.77 degrees_C m
+The maximum temperature for cluster 3 is 9.48 degrees_C m
+The mean temperature for cluster 3 is 9.14 degrees_C m
+
+The minimum salinity for cluster 3 is 24.11 g m kg-1
+The maximum salinity for cluster 3 is 30.19 g m kg-1
+The mean salinity for cluster 3 is 27.18 g m kg-1
+
+
+The minimum silicon concentration for cluster 3 is 32.47 mmol m-2
+The maximum silicon concentration for cluster 3 is 47.84 mmol m-2
+The mean silicon concentration for cluster 3 is 38.92 mmol m-2
+
+The minimum nitrate concentration for cluster 3 is 17.3 mmol m-2
+The maximum nitrate concentration for cluster 3 is 24.17 mmol m-2
+The mean nitrate concentration for cluster 3 is 20.15 mmol m-2
+
+The minimum ammonium concentration for cluster 3 is 0.86 mmol m-2
+The maximum ammonium concentration for cluster 3 is 1.54 mmol m-2
+The mean ammonium concentration for cluster 3 is 1.1 mmol m-2
+
+
+The minimum diatom concentration for cluster 3 is 0.57 mmol m-2
+The maximum diatom concentration for cluster 3 is 1.34 mmol m-2
+The mean diatom concentration for cluster 3 is 0.87 mmol m-2
+
+The minimum flagellate concentration for cluster 3 is 0.07 mmol m-2
+The maximum flagellate concentration for cluster 3 is 0.14 mmol m-2
+The mean flagellate concentration for cluster 3 is 0.1 mmol m-2
+
+
+The minimum microzooplankton concentration for cluster 3 is 0.23 mmol m-2
+The maximum microzooplankton concentration for cluster 3 is 0.59 mmol m-2
+The mean microzooplankton concentration for cluster 3 is 0.4 mmol m-2
+
+The minimum mesozooplankton concentration for cluster 3 is 0.22 mmol m-2
+The maximum mesozooplankton concentration for cluster 3 is 0.38 mmol m-2
+The mean mesozooplankton concentration for cluster 3 is 0.28 mmol m-2
+
+
+The amount of grid boxes for cluster 4 is 3269
+
+The minimum temperature for cluster 4 is 9.17 degrees_C m
+The maximum temperature for cluster 4 is 11.19 degrees_C m
+The mean temperature for cluster 4 is 9.88 degrees_C m
+
+The minimum salinity for cluster 4 is 22.01 g m kg-1
+The maximum salinity for cluster 4 is 30.14 g m kg-1
+The mean salinity for cluster 4 is 26.16 g m kg-1
+
+
+The minimum silicon concentration for cluster 4 is 29.01 mmol m-2
+The maximum silicon concentration for cluster 4 is 44.8 mmol m-2
+The mean silicon concentration for cluster 4 is 38.06 mmol m-2
+
+The minimum nitrate concentration for cluster 4 is 14.43 mmol m-2
+The maximum nitrate concentration for cluster 4 is 21.67 mmol m-2
+The mean nitrate concentration for cluster 4 is 18.55 mmol m-2
+
+The minimum ammonium concentration for cluster 4 is 1.03 mmol m-2
+The maximum ammonium concentration for cluster 4 is 1.64 mmol m-2
+The mean ammonium concentration for cluster 4 is 1.37 mmol m-2
+
+
+The minimum diatom concentration for cluster 4 is 0.39 mmol m-2
+The maximum diatom concentration for cluster 4 is 1.44 mmol m-2
+The mean diatom concentration for cluster 4 is 0.68 mmol m-2
+
+The minimum flagellate concentration for cluster 4 is 0.07 mmol m-2
+The maximum flagellate concentration for cluster 4 is 0.13 mmol m-2
+The mean flagellate concentration for cluster 4 is 0.09 mmol m-2
+
+
+The minimum microzooplankton concentration for cluster 4 is 0.21 mmol m-2
+The maximum microzooplankton concentration for cluster 4 is 0.67 mmol m-2
+The mean microzooplankton concentration for cluster 4 is 0.4 mmol m-2
+
+The minimum mesozooplankton concentration for cluster 4 is 0.18 mmol m-2
+The maximum mesozooplankton concentration for cluster 4 is 0.45 mmol m-2
+The mean mesozooplankton concentration for cluster 4 is 0.27 mmol m-2
+
+
+The amount of grid boxes for cluster 5 is 11175
+
+The minimum temperature for cluster 5 is 9.19 degrees_C m
+The maximum temperature for cluster 5 is 10.24 degrees_C m
+The mean temperature for cluster 5 is 9.58 degrees_C m
+
+The minimum salinity for cluster 5 is 25.33 g m kg-1
+The maximum salinity for cluster 5 is 32.27 g m kg-1
+The mean salinity for cluster 5 is 28.89 g m kg-1
+
+
+The minimum silicon concentration for cluster 5 is 24.97 mmol m-2
+The maximum silicon concentration for cluster 5 is 33.2 mmol m-2
+The mean silicon concentration for cluster 5 is 28.74 mmol m-2
+
+The minimum nitrate concentration for cluster 5 is 15.26 mmol m-2
+The maximum nitrate concentration for cluster 5 is 18.51 mmol m-2
+The mean nitrate concentration for cluster 5 is 17.28 mmol m-2
+
+The minimum ammonium concentration for cluster 5 is 0.49 mmol m-2
+The maximum ammonium concentration for cluster 5 is 1.18 mmol m-2
+The mean ammonium concentration for cluster 5 is 0.75 mmol m-2
+
+
+The minimum diatom concentration for cluster 5 is 0.14 mmol m-2
+The maximum diatom concentration for cluster 5 is 1.03 mmol m-2
+The mean diatom concentration for cluster 5 is 0.49 mmol m-2
+
+The minimum flagellate concentration for cluster 5 is 0.08 mmol m-2
+The maximum flagellate concentration for cluster 5 is 0.15 mmol m-2
+The mean flagellate concentration for cluster 5 is 0.1 mmol m-2
+
+
+The minimum microzooplankton concentration for cluster 5 is 0.1 mmol m-2
+The maximum microzooplankton concentration for cluster 5 is 0.53 mmol m-2
+The mean microzooplankton concentration for cluster 5 is 0.25 mmol m-2
+
+The minimum mesozooplankton concentration for cluster 5 is 0.08 mmol m-2
+The maximum mesozooplankton concentration for cluster 5 is 0.35 mmol m-2
+The mean mesozooplankton concentration for cluster 5 is 0.17 mmol m-2
+
+
