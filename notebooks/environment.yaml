@@ -41,7 +41,7 @@ dependencies:
   - pip
   - pyproj
   - pytest
-  - python=3
+  - python=3.11
   - pytz
   - python-dateutil
   - pyyaml
@@ -53,6 +53,8 @@ dependencies:
   - sphinx_rtd_theme
   - tqdm
   - xarray
+  - scikit-learn
+  - xskillscore
   
   - pip:
     - angles
